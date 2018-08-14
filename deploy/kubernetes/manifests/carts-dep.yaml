@@ -10,6 +10,7 @@ metadata:
     flux.weave.works/locked_user: bowen <bowen@weave.works>
     flux.weave.works/locked: 'true'
     flux.weave.works/locked_msg: '"This is a lock"'
+    flux.weave.works/tag.carts: glob:master-*
 spec:
   replicas: 1
   template:
