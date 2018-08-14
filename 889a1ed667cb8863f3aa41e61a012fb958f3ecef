@@ -1,0 +1,1 @@
+{"jobID":"4a2071da-9825-289f-ea6c-161381db77e6","spec":{"type":"policy","cause":{"Message":"","User":"bowen \u003cbowen@weave.works\u003e"},"spec":{"sock-shop:deployment/carts":{"add":{"tag.carts":"glob:master-*"},"remove":null}}},"result":null}
