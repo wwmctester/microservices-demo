@@ -1,0 +1,1 @@
+{"jobID":"7e87a258-85d9-f718-5fa1-b20c8f2e5289","spec":{"type":"policy","cause":{"Message":"This is a lock","User":"bowen \u003cbowen@weave.works\u003e"},"spec":{"sock-shop:deployment/carts":{"add":{"locked":"true","locked_msg":"\"This is a lock\"","locked_user":"bowen \u003cbowen@weave.works\u003e"},"remove":null}}},"result":null}
