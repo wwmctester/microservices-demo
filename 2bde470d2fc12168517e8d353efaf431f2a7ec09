@@ -1,0 +1,1 @@
+{"jobID":"f95651ed-7740-65d6-5a7b-4aa4a1425b13","spec":{"type":"policy","cause":{"Message":"","User":"bowen \u003cbowen@weave.works\u003e"},"spec":{"sock-shop:deployment/rabbitmq":{"add":{"tag.rabbitmq-exporter":"glob:*"},"remove":null}}},"result":null}
