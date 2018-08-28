@@ -26,12 +26,12 @@ spec:
         securityContext:
           capabilities:
             drop:
-              - all
+            - all
             add:
-              - CHOWN
-              - SETGID
-              - SETUID
-              - DAC_OVERRIDE
+            - CHOWN
+            - SETGID
+            - SETUID
+            - DAC_OVERRIDE
           readOnlyRootFilesystem: true
       - name: rabbitmq-exporter
         image: kbudde/rabbitmq-exporter
