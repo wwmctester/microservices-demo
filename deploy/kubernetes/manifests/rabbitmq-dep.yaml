@@ -6,8 +6,6 @@ metadata:
   labels:
     name: rabbitmq
   namespace: sock-shop
-  annotations:
-    flux.weave.works/tag.rabbitmq-exporter: glob:*
 spec:
   replicas: 1
   template:
